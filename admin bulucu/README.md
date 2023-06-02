@@ -1,0 +1,1 @@
+python script ile admin panel girişi toolu
